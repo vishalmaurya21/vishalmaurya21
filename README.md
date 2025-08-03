@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on open-source contributions<br>👯 I’m looking to collaborate on machine learning<br>🤝 I’m looking for help with backend architecture<br>🌱 I’m currently learning machine learning<br>📫 How to reach me iamviishalmaurya@gmail.com<br>😄 Pronouns he<br>⚡ Fun fact I once built a game using only CSS animations!
+🔭 I’m currently focus on problem solving skills<br>🤝 I’m looking for help with backend architecture<br>📫 How to reach me iamviishalmaurya@gmail.com<br>😄 Pronouns he<br>⚡ Fun fact I once built a game using only CSS animations!
 
 
 ## 🌐 Socials:
